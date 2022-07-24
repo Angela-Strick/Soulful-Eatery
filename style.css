@@ -7,9 +7,21 @@ body {background-color: #eec0c6;
 background-image: linear-gradient(315deg, #eec0c6 0%, #7ee8fa 74%);
      }
 img{
-  height: 350px;
-  width: 350px;
+  height: 300px;
+  width: 300px;
 }
+
 #logo-center {
 text-align: center;
+}
+
+h3 {
+  text-align: center;
+  font-size:30px;
+  font-family:"Verdana", sans-serif;
+  color: rgb(80,50,100);
+}
+
+a {
+  font-size: 30px;
 }
