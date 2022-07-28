@@ -4,13 +4,13 @@ html, body {
 }
 
 body {
-  background-image: linear-gradient(to right top, #baeeae, #a6edbc, #95ebc9, #89e8d6, #83e4e1, #7ce4df, #76e5dc, #6fe5d9, #76e9c0, #90eaa0, #b3e77e, #dce160) ;
+  background-image: linear-gradient(to right top, #baeeae, #a6edbc, #95ebc9, #89e8d6, #83e4e1, #7ce4df, #76e5dc, #6fe5d9, #76e9c0, #90eaa0, #b3e77e, #dce160);
   height: 100%;
   margin: 0px;
 }
 .logo {
   height: 300px;
-  width: 300px;
+  width: 320px;
   margin-left: auto;
   align-content: center;
   margin-right: auto;
@@ -26,8 +26,9 @@ body {
       
     }
     .food {
-    padding-right: 50px;
+    padding-right: 70px;
     padding-left: 50px;
+    padding-top: 10px;
     display: flex;
     flex-direction: column;
     gap: 5px;
@@ -45,10 +46,30 @@ h3 {
   margin-top:0px;
   border-top:0px;
   padding-top:0px;
-  padding bottom: 0px;
+  padding bottom: 10px;
   height:5%;
 }
 
 .button1 {
   font-size: 30px;
+}
+
+.ZP{
+  text-align: center;
+}
+
+.ZPimage{
+  height: 300px;
+  width: 320px;
+  margin-left: auto;
+  align-content: center;
+  margin-right: auto;
+  display: block;
+}
+  .shrimpj{
+      text-align: center;
+    }
+
+.DescriptionZP{
+  text-align: center;
 }
