@@ -5,6 +5,7 @@ html, body {
 
 body {
   background-image: linear-gradient(to right top, #baeeae, #a6edbc, #95ebc9, #89e8d6, #83e4e1, #7ce4df, #76e5dc, #6fe5d9, #76e9c0, #90eaa0, #b3e77e, #dce160);
+  background-size: cover;
   height: 100%;
   margin: 0px;
 }
@@ -22,8 +23,7 @@ body {
       font-size: 20px;
       gap: 5px;
       max-width: 100%;
-      justify-content: center;
-      
+      justify-content: center; 
     }
     .food {
     padding-right: 70px;
@@ -34,6 +34,9 @@ body {
     gap: 5px;
     align-items: center;
     max-width: 100%;
+    font-family:"Verdana", sans-serif;
+    color:rgb(80,50,100);
+    text-shadow: 1px 1px 2px #000000;;
  }
     p{
   text-align: center;
