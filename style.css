@@ -73,7 +73,7 @@ h3 {
       text-align: center;
     }
 
-.DescriptionZP{
+.DescriptionZP {
   text-align: center;
 }
 
@@ -85,3 +85,9 @@ h3 {
   font-size: 30px;
   font-family: "Verdana", sans-serif;
 }
+.shrimpPic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    }
